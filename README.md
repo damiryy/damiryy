@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damiryy
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me: telegram: @dedust222
 
