@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damiryy
+- 👋 Hi, I’m @damiryy!
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on data analytics
