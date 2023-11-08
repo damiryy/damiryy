@@ -2,7 +2,9 @@
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on data analytics
-- 📫 How to reach me: telegram: @dedust222
+- 📫 How to reach me: telegram: @dedust222 / gmail: damiryudashkin@gmail.com
+
+
 
 <!---
 damiryy/damiryy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
